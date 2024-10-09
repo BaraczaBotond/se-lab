@@ -58,4 +58,5 @@ public class TorpedoStore {
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
+  //Kedves Levi! Nagyon örülök hogy Veled dolgozhattam:)
 }
